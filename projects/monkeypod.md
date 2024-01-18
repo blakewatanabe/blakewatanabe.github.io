@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/micromouse/monkeypod.png
 title: "MonkeyPod"
 date: 2017 - 2020
 published: true
