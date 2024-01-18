@@ -13,7 +13,7 @@ labels:
 summary: "Having experience as an Expo in a restaurant has taught me many skills that will be useful throughout my career."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/MPK.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
