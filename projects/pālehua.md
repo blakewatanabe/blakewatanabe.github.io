@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/vacay/camppālehua.png
 title: "Camp Pālehua"
 date: 2016 - 2018
 published: true
