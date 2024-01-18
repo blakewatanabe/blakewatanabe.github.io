@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/KHS.jpg
+image: img/KHS.png
 title: "Judo"
 date: 2015 - 2016
 published: true
