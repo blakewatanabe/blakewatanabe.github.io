@@ -6,7 +6,6 @@ title: "MonkeyPod"
 date: 2017 - 2020
 published: true
 labels:
-  - Management
   - Organization
   - Cooperation
   - Communication
@@ -15,14 +14,10 @@ summary: "Having experience as an Expo in a restaurant has taught me many skills
 
 <img class="img-fluid" src="../img/MPK.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+MonkeyPod Kitchen in Ko'olina is across the street from all the hotels that line up along the beach. Tourism is big in Hawaii, and being in Ko'olina, MonkeyPod is busy most of the time. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+I was the Expo on the food line who's in charge of communicating with the chefs and making sure everything was organized for the food runners to know which table to take the food to.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Working at MonkeyPod as an Expo gave me experience with working under pressure and taught me how to stay composed under those circumstances. I needed to constantly communicate with my co-workers to make sure we were all on the same page and I had to keep everything organized so that the right food went out when it needed to. I also had keep track of which orders to prioritize depending on the time and check in with the chefs and servers to talk about any modifcations requested by a table.
 
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+This experience has taught me many skills that will help me in any career in the future. I had a good time and wouldn't mind working in the restaurant industry again. 
