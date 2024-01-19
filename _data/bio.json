@@ -3,10 +3,10 @@
     "name": "Blake Watanabe",
     "label": "Student",
     "picture": "https://github.com/blakewatanabe.png",
-    "email": "blakew9@hawaii.edu",
+    "email": "blakewanabi@gmail.com",
     "phone": "808-541-7101",
     "website": "https://blakewatanabe.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025. I'm working towards becoming a Software Developer, but also looking to see what else the tech industry has to offer.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "blakewatanabe", "url": "https://github.com/blakewatanabe" },
