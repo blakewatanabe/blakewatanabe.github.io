@@ -12,16 +12,16 @@ labels:
 summary: "Our team won many state championships in different weight classes in 2015 and 2016."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/kjudo.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+I joined the Kapolei Judo Club in 2015 and 2016 after being recruited by my friends, with Kekua(above) being one of them. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+We had practice everyday after school during the season with sparring, weight training, and cardio being the focuses for our practices. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+I participated in tournaments throughout the season and won some matches, but didn't place in the top 3 of my weight class. Going against someone who's been doing Judo for years really shows and with just joining, I was content with the wins that I achieved. 
 
-Here is some example code to illustrate Simple Schema use:
+What I've learned from this is that I always thought of Judo as an independent sport. While a lot of it is individual performance, it is still a team sport. Improving myself wasn't just for me, it also helped others on the team by learning new things through practice and sparring sessions. It changed my view and allowed me to see the weight of teamwork in something I thought was more focused on individual performance. It gave me more motivation to improve myself, not just for me, for the others on the team as well. I was able to learn how important everyone's role is in a "team" environment.
 
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
+Here's an article about the 2015 Judo OIA
  
 Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
