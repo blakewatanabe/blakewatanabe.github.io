@@ -24,4 +24,4 @@ What I've learned from this is that I always thought of Judo as an independent s
 
 Here's an article about the 2015 Judo OIA
  
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+Source: <a href="https://scoringlive.com/print.php?storyid=12889">
