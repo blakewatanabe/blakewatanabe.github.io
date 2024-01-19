@@ -30,14 +30,32 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii - Manoa, Honolulu, HI",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2024",
       "endDate": "Present",
       "courses": [
       ]
-    }
+    },
+    {
+      "institution": "Leeward Community College, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2022",
+      "endDate": "2023",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii - West Oahu, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2016",
+      "endDate": "2018",
+      "courses": [
+      ]
+    }    
   ],
   "work": [
     {
