@@ -10,15 +10,13 @@ labels:
   - Flexibility
   - Communication
   - Cooking
-summary: "Assited in cooking meals for many people staying staying at Camp Pālehua for a summer program."
+summary: "Assited in cooking meals for people staying staying at Camp Pālehua for a summer program."
 ---
 
 <img class="img-fluid" src="../img/CP.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+During the summer, there's a program that brought over a hundred people to stay at Camp Pālehua (Makakilo) for two weeks. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+My culinary teacher from high school would help run the kitchen and I volunteered to help during this time. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
-
-Here is some example code to illustrate Simple Schema use:
+I helped with cooking breakfast, lunch, dinner, and serving to the people staying there. This experience allowed me to learn how to work with others that I only just met and being felxible to help where it was needed. Communication was also important to make sure that things were done at the right time and that everything was ready when people came in to eat. 
