@@ -13,7 +13,7 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/gameboy.JPG">
 
-##Where it Began
+## Where it Began
 It all started when I got a Gameboy Color for my birthday when I was little. I loved it so much I took it everywhere I went. Except for school because I was told that I might get it stolen. I think my parents just wanted me to not get distracted (and you just weren’t allowed to bring those kinds of things), but I listened since I didn’t like the thought of losing it. As years went by, my love for games never left and I got into new consoles and handhelds.  The Gameboy Advance, GameCube, DS, PSP, PlayStation 2, Wii, PlayStation 3, PS Vita, 3DS,  Wii U, PlayStation 4, Nintendo Switch, and finally PC.
 
 Now, what does all that have to do with my future career in the tech industry? I’ve always had an interest and experience with some sort of tech as I grew up. At some point I started thinking about how fascinating it is to be playing games in all those different ways. Also, how it is so easy now to play and talk with friends and/or random people who live nowhere near me. But it’s not only games. From things like using Spotify on my phone for music and getting recommended new songs based on what I listen to, to things like accessing and navigating through websites on my computer. When I just sit down and think about it for a second, it just seems bizarre how we’re able to do all these kinds of things. That is why I decided to start working toward a career in the tech industry.
