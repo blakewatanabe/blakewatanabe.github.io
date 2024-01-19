@@ -11,7 +11,7 @@ labels:
   - Interests
 ---
 
-<img width="220px" class="rounded float-start pe-4" src="../img/gameboy.JPG">
+<img width="200px" class="rounded float-start pe-4" src="../img/gameboy.JPG">
 
 ## Where it Began
 It all started when I got a Gameboy Color for my birthday when I was little. I loved it so much I took it everywhere I went. Except for school because I was told that I might get it stolen. I think my parents just wanted me to not get distracted (and you just weren’t allowed to bring those kinds of things), but I listened since I didn’t like the thought of losing it. As years went by, my love for games never left and I got into new consoles and handhelds.  The Gameboy Advance, GameCube, DS, PSP, PlayStation 2, Wii, PlayStation 3, PS Vita, 3DS,  Wii U, PlayStation 4, Nintendo Switch, and finally PC.
