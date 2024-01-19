@@ -22,4 +22,4 @@ I participated in tournaments throughout the season and won some matches, but di
 
 What I've learned from this is that I always thought of Judo as an independent sport. While a lot of it is individual performance, it is still a team sport. Improving myself wasn't just for me, it also helped others on the team by learning new things through practice and sparring sessions. It changed my view and allowed me to see the weight of teamwork in something I thought was more focused on individual performance. It gave me more motivation to improve myself, not just for me, for the others on the team as well. I was able to learn how important everyone's role is in a "team" environment.
 
-Here's an article about the 2015 Judo OIA[2015 OIA Results](https://scoringlive.com/print.php?storyid=12889)
+Here's an article about the [2015 Judo OIA Results](https://scoringlive.com/print.php?storyid=12889)
