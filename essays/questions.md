@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Try Not to be That Person"
+title: "Don't be That Person"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-25
 published: true
