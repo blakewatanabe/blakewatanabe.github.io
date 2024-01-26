@@ -31,10 +31,10 @@ Here is an example of a [bad question](https://stackoverflow.com/questions/77877
        src="../img/pic2.jpeg" 
        class="img-thumbnail" >
   <img width="200px" 
-       src="../img/pic 4.jpeg" 
+       src="../img/pic1.jpeg" 
        class="img-thumbnail" >
   <img width="200px" 
-       src="../img/pic1.jpeg" 
+       src="../img/pic4.jpeg" 
        class="img-thumbnail" >
   </div>
   
