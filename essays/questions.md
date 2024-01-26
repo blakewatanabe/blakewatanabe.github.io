@@ -9,7 +9,7 @@ labels:
   - Smart Questions
 ---
 
-<img class="rounded mx-auto d-block" src="../img/MPK.png">
+<img class="rounded mx-auto d-block" src="../img/smartquestion.png">
 
 ## How do I type this essay?
 We all know the answer to the question “Is there such a thing called a bad question?”. Ignoring the bad question in the header, I’ll be honest and admit that I have asked probably a good number of bad questions…in non-professional scenarios though! But why does it matter depending on the scenario? Well, when I think about it, the times I ask these “bad questions” is with friends or family-members. But the circumstances change drastically when it comes to asking questions in a completely different scenario, say like online with random people in a forum community like Stack Overflow.  
