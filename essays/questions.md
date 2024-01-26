@@ -34,7 +34,7 @@ Here is an example of a [bad question](https://stackoverflow.com/questions/77877
        src="../img/pic1.jpeg" 
        class="img-thumbnail" >
   <img width="200px" 
-       src="../img/pic4.jpeg" 
+       src="../img/pic 4.jpeg" 
        class="img-thumbnail" >
   </div>
   
