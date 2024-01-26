@@ -21,12 +21,12 @@ In the article, Eric mentions that people who ask these questions will pretty mu
 
 
 ## The good and the bad
+
+<img class="rounded mx-auto d-block" src="../img/pic 3.jpeg">
+
 Here is an example of a [bad question](https://stackoverflow.com/questions/77877124/how-can-i-plot-this-function-to-see-what-it-looks-like) and a [good question](https://stackoverflow.com/questions/77883210/simple-json-parsing-not-working-in-post-to-spring-api#comment137303910_77883210) from Stack Overflow. It’s easy to see the difference between the two questions. In the “good question”, the user provides snippets of his code and details explaining what was going on and why it was a problem. At the time of writing this essay, he was able to get the solution from one other user that was familiar with that problem in about an hour. Versus the “bad question” where the user states he doesn’t know how to code and is asking for someone to pretty much do it for him. Then almost a day later, still has not found a solution.
 
 <div class="text-center p-4">
-  <img width="200px" 
-       src="../img/pic 3.jpeg
-       class="img-thumbnail" >
   <img width="200px" 
        src="../img/pic2.jpeg" 
        class="img-thumbnail" >
