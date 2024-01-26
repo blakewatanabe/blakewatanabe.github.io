@@ -23,5 +23,20 @@ In the article, Eric mentions that people who ask these questions will pretty mu
 ## The good and the bad
 Here is an example of a [bad question](https://stackoverflow.com/questions/77877124/how-can-i-plot-this-function-to-see-what-it-looks-like) and a [good question](https://stackoverflow.com/questions/77883210/simple-json-parsing-not-working-in-post-to-spring-api#comment137303910_77883210) from Stack Overflow. It’s easy to see the difference between the two questions. In the “good question”, the user provides snippets of his code and details explaining what was going on and why it was a problem. At the time of writing this essay, he was able to get the solution from one other user that was familiar with that problem in about an hour. Versus the “bad question” where the user states he doesn’t know how to code and is asking for someone to pretty much do it for him. Then almost a day later, still has not found a solution.
 
+<div class="text-center p-4">
+  <img width="200px" 
+       src="../img/pic 3.jpeg
+       class="img-thumbnail" >
+  <img width="200px" 
+       src="../img/pic2.jpeg" 
+       class="img-thumbnail" >
+  <img width="200px" 
+       src="../img/pic 4.jpeg" 
+       class="img-thumbnail" >
+  <img width="200px" 
+       src="../img/pic1.jpeg" 
+       class="img-thumbnail" >
+</div>
+
 ## The solution 
 What I’ve learned form this is to not be THAT person to my friends and family. I have to stop asking them how something works before even trying to read the manual or just looking for a shortcut. In all seriousness, I learned a lot about the different forms of questions and now understand more as to why it is difficult to ask a good question. It’s difficult BECAUSE it’s so easy to ask a bad question.  But being mindful of all of this can help me improve on how I ask questions if I put the effort in and make sure that I won’t be that person in my workplace or online in the future. 
