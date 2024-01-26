@@ -10,7 +10,7 @@ labels:
 ---
 
 ## How do I type this essay?
-We all know the answer to the question “Is there such a thing called a bad question?”. I’ll be honest and admit that I have asked probably a good number of bad questions…in non-professional scenarios though! But why does it matter depending on the scenario? Well, when I think about it, the times I ask these “bad questions” is with friends or family-members. But the circumstances change drastically when it comes to asking questions in a completely different scenario, say like online with random people in a forum community like Stack Overflow.  
+We all know the answer to the question “Is there such a thing called a bad question?”. Ignoring the bad question in the header, I’ll be honest and admit that I have asked probably a good number of bad questions…in non-professional scenarios though! But why does it matter depending on the scenario? Well, when I think about it, the times I ask these “bad questions” is with friends or family-members. But the circumstances change drastically when it comes to asking questions in a completely different scenario, say like online with random people in a forum community like Stack Overflow.  
 
 ## No Effort
 What is a bad question? After reading the article from Eric Raymond about [smart questions](http://www.catb.org/esr/faqs/smart-questions.html), I noticed that a there are a lot of things that contribute to a “bad question”.  There was one aspect mentioned that really sticked out to me. That a bad question is when a person doesn’t put in any effort themselves to try and get to the desired solution. Instead, they ask a very broad question that requires more time from the person trying to help and find the solution. 
