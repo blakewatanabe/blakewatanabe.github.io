@@ -36,6 +36,7 @@ Here is an example of a [bad question](https://stackoverflow.com/questions/77877
   <img width="200px" 
        src="../img/pic1.jpeg" 
        class="img-thumbnail" >
-
+  </div>
+  
 ## The solution 
 What I’ve learned form this is to not be THAT person to my friends and family. I have to stop asking them how something works before even trying to read the manual or just looking for a shortcut. In all seriousness, I learned a lot about the different forms of questions and now understand more as to why it is difficult to ask a good question. It’s difficult BECAUSE it’s so easy to ask a bad question.  But being mindful of all of this can help me improve on how I ask questions if I put the effort in and make sure that I won’t be that person in my workplace or online in the future. 
