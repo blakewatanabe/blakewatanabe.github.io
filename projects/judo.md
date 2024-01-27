@@ -12,7 +12,7 @@ labels:
 summary: "Our team won many state championships in different weight classes in 2015 and 2016."
 ---
 
-<img class="img-fluid" src="../img/kjudo.png">
+<img class="rounded mx-auto d-block" src="../img/kjudo.png">
 
 I joined the Kapolei Judo Club in 2015 and 2016 after being recruited by my friends, with Kekua(above) being one of them. 
 
