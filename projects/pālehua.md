@@ -12,7 +12,7 @@ labels:
 summary: "Assited in cooking meals for people staying staying at Camp Pālehua for a summer program."
 ---
 
-<img class="img-fluid" src="../img/CP.png">
+<img class="rounded mx-auto d-block" src="../img/CP.png">
 
 During the summer, there's a program that brings over a hundred people to stay at Camp Pālehua (Makakilo) for two weeks. 
 
