@@ -12,7 +12,7 @@ labels:
 summary: "Having experience as an Expo in a restaurant has taught me many skills that will be useful throughout my career."
 ---
 
-<img class="img-fluid" src="../img/MPK.png">
+<img width="800px" class="rounded mx-auto d-block" src="../img/MPK.png">
 
 MonkeyPod Kitchen in Ko'olina is across the street from all the hotels that line up along the beach. Tourism is big in Hawaii, and being in Ko'olina, MonkeyPod is busy most of the time. 
 
