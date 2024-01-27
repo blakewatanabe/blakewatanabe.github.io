@@ -11,7 +11,7 @@ labels:
   - Javascript
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/JavaScript-logo.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/JavaScript-logo.png">
 
 ## System.out.println("Hello World");
 
