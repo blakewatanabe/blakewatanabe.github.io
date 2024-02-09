@@ -15,7 +15,7 @@ labels:
 
 ## Language = Language
 
-I like to think of programming being another type of “language”. I mean, I guess that’s why they call things like JavaScript, C++, Python, etc. programming “languages”. I may have stated the obvious, but the learning process of languages and programming languages do share some similarities. Both require you to follow a set of "guidelines" for others to easily understand, and that’s where I feel like coding standards come into play and is crucial to one’s coding capabilities. 
+I like to think of programming being another type of “language”. I mean, I guess that’s why they call things like JavaScript, C++, Python, etc. programming “languages”. I may have stated the obvious, but the learning process of languages and programming languages do share some similarities. Both require you to learn and follow a set of "guidelines" That’s where I feel like coding standards come into play and is crucial to one’s coding capabilities. 
 
 But let’s take a step back and think about languages for a second. You may come to realize that not only are the words different, but also the way that each of them is structured. For example, right now I’m learning Japanese and it’s a bit more difficult to comprehend some of the sentence structures with English being my native language. 
 
