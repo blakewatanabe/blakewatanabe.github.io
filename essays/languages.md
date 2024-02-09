@@ -21,13 +21,17 @@ Sorry, let’s take a step back and think about languages for a second. You may 
 
 ## 英語 VS 日本語(Eigo VS Nihongo/English VS Japanese)
 
-A quick comparison between the two would be that Japanese sentences are structure as Subject-Object-Verb, while English sentences are structured as Subject-Verb-Object. Now, that might not sound like a big deal. Just swap the verb and object then BOOM, you know Japanese. But when it comes to the more advanced sentences, the things that seemed trivial come to light and show just how important they are.  The intricate details like these things called Japanese particles, with most just being one or two Japanese characters, support the subject, object, and verb in various ways. The order of particles is very important and can have different meanings depending on the context or ways that it’s implemented.
+A quick comparison between the two would be that Japanese sentences are structure as Subject-Object-Verb, while English sentences are structured as Subject-Verb-Object. Now, that might not sound like a big deal. Just swap the verb and object then BOOM, you know Japanese. But when it comes to the more advanced sentences, the things that seemed trivial come to light and show just how important they are.  The intricate details like these things called [Japanese particles](https://jlptsensei.com/complete-japanese-particles-list/), with most just being one or two Japanese characters, support the subject, object, and verb in various ways. The order of particles is very important and can have different meanings depending on the context or ways that it’s implemented.
 
 This isn’t a Japanese class though, so why am I bringing up all that mumbo jumbo now? Well, in a way, I see programming and coding standards in a similar way as using/learning Japanese. Each language (the non-programming ones) has its own structure and is taught to everyone with the same standards so that people can understand and converse with each other easily. That seems very relatable to what the goal is of a programmer. To produce code that is easily understandable. Mastering proper coding etiquette, or in other words, coding standards, will be crucial to reaching that goal.
 
 ## Thoughts on Coding Standards
 
 I feel that learning about coding standards is very important, especially when learning a new programming language. All the “trivial” things like how many spaces to indent, or whether you place the close-curly-brace on a new line by itself will make a code easier to read. Just like writing this essay and not using more or less spaces than needed between each word. I used trivial with quotation marks because they really do seem like it wouldn’t matter too much. Just like the Japanese particles I mentioned earlier. But to me, all the things that seem “small” will, in the end, support the rest of the code and make it easier to read and should not be overlooked. 
+
+The introduction to this article that I found about ["Coding Standards and Best Practices to Follow"](https://www.browserstack.com/guide/coding-standards-best-practices) is exactly how I feel about the importance of coding standards. 
+
+"Coding standards are a set of guidelines and best practices that are used to create consistent, high-quality code. Consider coding standards as rules, techniques, and best practices to develop cleaner, more readable, and more efficient code with minimal errors. They offer a uniform format for software engineers to build sophisticated and highly functional code." - Shreya Bose
   
 ## Welcome to IntelliJ + ESLint
 
