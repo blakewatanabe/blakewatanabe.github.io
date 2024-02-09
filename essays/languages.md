@@ -11,7 +11,7 @@ labels:
   - Coding Standards
 ---
 
-<img class="rounded mx-auto d-block" src="../img/smartquestion.png">
+<img class="rounded mx-auto d-block" src="../img/jpejs.png">
 
 ## Language = Language
 I like to think of programming being another type of “language”. I mean, I guess that’s why they call things like JavaScript, C++, Python, etc. programming “languages”. I may have stated the obvious, but that’s where I feel like coding standards come into play and is crucial to one’s coding capabilities. 
