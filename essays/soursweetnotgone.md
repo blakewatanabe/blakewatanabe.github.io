@@ -11,7 +11,7 @@ labels:
   - UI Frameworks
 ---
 
-<img class="rounded mx-auto d-block" src="../img/soursweetgone.png">
+<img style="width: 300px" class="rounded mx-auto d-block" src="../img/soursweetgone.png">
 
 ## "First they're sour."
 
