@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Design Patterns! NOT <q>Design Patterns!<q>"
+title: "Design Patterns! NOT Design Patterns!"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-25
 published: true
@@ -10,7 +10,7 @@ labels:
   - Design Patterns
 ---
 
-<img style="width: 500px" class="rounded mx-auto d-block" src="../img/design-pattern.png">
+<img style="width: 500px" class="rounded mx-auto d-block" src="../img/design-pattern-pic.png">
 
 ## "First they're sour."
 
