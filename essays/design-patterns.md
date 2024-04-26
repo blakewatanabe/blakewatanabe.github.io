@@ -10,7 +10,7 @@ labels:
   - Design Patterns
 ---
 
-<img style="width: 350px text-centered" class="rounded mx-auto d-block" src="../img/design-pattern-pic.png">
+<img style="width: 350px" class="rounded mx-auto d-block" src="../img/design-pattern-pic.png">
 
 ## "Oh, Not That Kind of Design Pattern"
 
