@@ -1,24 +1,24 @@
 ---
 layout: essay
 type: essay
-title: "Design Patterns! NOT "Design Patterns!""
+title: "Sour. Sweet. Not Gone."
 # All dates must be YYYY-MM-DD format!
-date: 2024-04-25
+date: 2024-02-22
 published: true
 labels:
-  - Software Development
-  - Design Patterns
+  - HTML
+  - CSS
+  - UI Frameworks
 ---
 
-<img style="width: 500px" class="rounded mx-auto d-block" src="../img/design-pattern.png">
+<img style="width: 500px" class="rounded mx-auto d-block" src="../img/soursweetgone.png">
 
 ## "First they're sour."
 
 
-I would like to start off by stating that during my Spring 2024 semester at UH Manoa, I’m one of those people whos been using design patterns and not realizing that we have been using design patterns all along (Shame on me!). BUT, I have a valid excuse! It was all a part of the learning process! We were exposed to design patterns and getting experience with them first so that later, it will make more sense when learning about the concept of design patterns. Or maybe I heard my professor wrong, being a selective listener to where it would justify me not knowing the difference between “Pattern Designs” (like on a rug)  and “Design Patterns” (the cool one, because now I know what it is). 
+Do you remember the Sour Patch Kids commercials, where the Sour Patch Kids start off with doing something bad/mean to a person, but then later, they start to apologize or be nice to make up for their wrong doings?  Oh, and the guy saying “First they’re sour. Then they’re sweet” and then closing off the commercial with the slogan “Sour. Sweet. Gone.” I don’t really watch TV anymore, so I have no clue if they’re still doing those kinds of commercials for Sour Patch Kids. But many years later, the commercials are still doing their job since I still remember them clear as day. Which is also making me want stop typing this essay and go buy some right now. 
 
-After learning about what the concept of design patterns is for, it made me think of [this old video](https://www.youtube.com/watch?v=6HRjTeM4N80) of this man who was cleaning a travelator in an “efficient” way. Okay, maybe not efficient since he only covered the top half of the glass. But that solution was a simpler way (in a sense where he didn’t have to move) for a problem that all the cleaners at the airport had to deal with and walk all the way down and back to clean. Those travelators can also be quite long, and according to [this website](https://www.dimensions.com/element/moving-walkway-inclined-double#:~:text=Inclined%20pit%20depths%20are%20commonly,(100%2D200%20m)), a typical length is 100 meters – 200 meters. 
-
+But staying on track, when I think about my experiences so far with UI frameworks (Bootstrap 5), it’s like I’m in one of those Sour Patch Kids commercial, with Bootstrap 5 being the Sour Patch Kid bullying me. I’m in the middle of that “sour” phase and just waiting for the “sweet” where the “bullying” can stop. Then Bootstrap 5 and I can become best friends. But instead of UI frameworks being “Sour. Sweet. Gone.”, I’m hoping that it’ll be “Sour. Sweet. Stay with me and make HTML easier to use in the future.”
 
 ## "Then they're sweet."
 
