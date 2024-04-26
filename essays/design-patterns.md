@@ -4,7 +4,7 @@ type: essay
 title: "Design Patterns! NOT "Design Patterns!""
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-25
-published: false
+published: true
 labels:
   - Software Development
   - Design Patterns
