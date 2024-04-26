@@ -4,7 +4,7 @@ type: essay
 title: "Design Patterns! NOT Design Patterns!"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-25
-published: false
+published: true
 labels:
   - Software Development
   - Design Patterns
@@ -12,7 +12,7 @@ labels:
 
 <img style="width: 350px" class="rounded mx-auto d-block" src="../img/design-pattern-pic.png">
 
-## "Oh, Not That Kind of Design Pattern"
+## "The Realization"
 
 
 I would like to start off by stating that during my Spring 2024 semester at UH Manoa, I’m one of those people whos been using design patterns and not realizing that we have been using design patterns all along (Shame on me!). BUT, I have a valid excuse! It was all a part of the learning process! We were exposed to design patterns and getting experience with them first so that later, it will make more sense when learning about the concept of design patterns. Or maybe I heard my professor wrong, being a selective listener to where it would justify me not knowing the difference between “Pattern Designs” (like on a rug)  and “Design Patterns” (the cool one, because now I know what it is). 
@@ -31,4 +31,4 @@ During this semester, one case that stood out to me is the use of a singleton de
 ## "Looking Ahead!"
 
 
-I’m very intrigued by the whole concept of design patterns, and learning about the Creational, Structural, and Behavioral design patterns. Although, I’m still trying to wrap my head around some of the concepts and applications of certain design patterns. The overall goal and meaning behind design patterns, where in layman’s terms are established resolutions for repetitive challenges in software development, is something that I never really thought about during my college career. Well, until now that is.
+I’m very intrigued by the whole concept of design patterns, and learning about the Creational, Structural, and Behavioral design patterns. Although, I’m still trying to wrap my head around some of the concepts and applications of certain design patterns. The overall goal and meaning behind design patterns, where in layman’s terms are established resolutions for repetitive challenges in software development, is something that I never really thought about during my college career. But this is something that I'm aware of now and will continue to observed throughout the rest of my software developement career.
