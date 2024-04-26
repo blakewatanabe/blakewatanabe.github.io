@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Sour. Sweet. Not Gone."
+title: "Design Patterns! NOT "Design Patterns!""
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-22
 published: true
