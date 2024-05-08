@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Error 404: AI Experience Not Found"
+title: "Error 404: AI Experience Page Not Found"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-07
 published: true
@@ -11,7 +11,7 @@ labels:
   - Software Engineering
 ---
 
-<img style="width: 500px" class="rounded mx-auto d-block" src="../img/soursweetgone.png">
+<img style="width: 500px" class="rounded mx-auto d-block" src="../img/not-found.png">
 
 ### I. Introduction
 So, when it comes to my experiences of incorporating AI into my studies and/or learning process, it’s the same way I feel whenever I see how popular it is to take notes on tablets instead of using notepaper. I think to myself, “Wow, that seems really useful”, and that I should try and give it a go myself. To give a little context, I graduated high school in 2016 and went to college straight after for 2 years but ended up taking a break. Then followed by covid and made the decision to resume college in 2022. A “bit” of time that has passed since my first couple years of college with certain things being very different, like the presence of AI. Even though I have no experiences with AI yet, I can see just how useful it can be in education and integrating it within our studies and use it to further increase our knowledge/capabilities of a subject, like Software Engineering. Being able to input your code into something like ChatGPT and it can help you find where your problem is. Or how you can ask questions on something you’re confused about and get answers that may explain it thoroughly so that you fully understand the concept you were confused about.  Now, it’s not the case that I chose to not use AI due to personal opinions that reject the whole concept and practices of AI. It’s just that I’m still a few years behind when it comes to my studying habits. But seeing the capabilities of how some of my classmates use AI to improve their knowledge has piqued my interest. 
