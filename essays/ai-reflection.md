@@ -21,7 +21,7 @@ I have used AI in class this semester in the following areas:
 
   1. Experience WODs e.g. E18
 
- In the cases of experience WODs, the thought of using AI never really came to mind. When there were parts where I got stuck, I would try to go through the learning material to see if I would be able to rejog my memory and possibly come up with a solution. There were a couple times where I had to do more than one attempt and when I did fail the first time, I would learn my mistakes through watching the example videos provided by the professors. Before doing the next attempt, I would make sure that I fully understood why that was the solution instead of just copying it down. No use of AI during my process of experience WODs. 
+In the cases of experience WODs, the thought of using AI never really came to mind. When there were parts where I got stuck, I would try to go through the learning material to see if I would be able to rejog my memory and possibly come up with a solution. There were a couple times where I had to do more than one attempt and when I did fail the first time, I would learn my mistakes through watching the example videos provided by the professors. Before doing the next attempt, I would make sure that I fully understood why that was the solution instead of just copying it down. No use of AI during my process of experience WODs. 
 
   2. In-class Practice WODs
 
