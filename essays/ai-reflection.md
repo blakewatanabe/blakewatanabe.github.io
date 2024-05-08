@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "AI"
 # All dates must be YYYY-MM-DD format!
-date: 2024-02-22
+date: 2024-05-07
 published: true
 labels:
   - AI
