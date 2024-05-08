@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI"
+title: "Error 404: AI Experience Not Found"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-07
 published: true
@@ -98,4 +98,3 @@ Continuing from the previous statement, with the implementation of AI into the e
 ### VIII. Conclusion:
 
 In conclusion, AI is something that I know I’ll be picking up in the near future as it’s something that’ll be around for many years to come. From a perspective of someone who hasn’t used AI yet, I can see the positives and negatives that come along with the use of AI in education for software engineering. Or even education in general. But I also hear about those instances where people use AI to write their entire essay, or having AI do all the coding for them. While it’s cool that AI is able to do that, I feel that is detrimental to one’s learning process and the major drawback of AI being used in an educational setting. As AI improves as time goes on, so does the emphasis on how to properly use AI to show how you can still learn properly with the assistance of AI as long as there’s moderation and how much to rely on it. 
-at said, I will continue to put a lot of effort into learning not just UI frameworks, but also HTML and CSS. Before these past couple weeks, I didn’t know how it felt when you’re on the other end, being a developer who created a beautiful website that many people enjoy using. Well…I still don’t know that feeling. BUT, doing assignments to create simple websites felt satisfying to get a result that I was trying to reach. Sort of like that same feeling when you get a program working the way that you wanted it too. If it felt like that for just a small assignment in college, I can’t imagine how nice it must feel building a masterpiece for many people to enjoy. 
