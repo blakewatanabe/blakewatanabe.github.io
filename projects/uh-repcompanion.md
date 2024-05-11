@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/monkeypod.png
+image: img/uh-repcompanion-logo.png
 title: "UH RepCompanion"
 date: 2024
 published: true
@@ -14,7 +14,7 @@ labels:
 summary: "This was the final project for ICS-314 where we worked in groups to experience the process of deploying a website from start to finish."
 ---
 
-<img width="800px" class="rounded mx-auto d-block" src="../img/MPK.png">
+<img width="800px" class="rounded mx-auto d-block" src="../img/uh-repcompanion-home.png">
 
 MonkeyPod Kitchen in Ko'olina is across the street from all the hotels that line up along the beach. Tourism is big in Hawaii, and being in Ko'olina, MonkeyPod is busy most of the time. 
 
