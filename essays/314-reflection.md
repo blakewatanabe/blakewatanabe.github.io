@@ -11,7 +11,7 @@ labels:
   - Software Engineering
 ---
 
-<img style="width: 800px" class="rounded mx-auto d-block" src="../img/not-found.png">
+<img style="width: 800px" class="rounded mx-auto d-block" src="../img/314-reflection.png">
 
 ### Introduction
 With my spring 2024 semester at UH Manoa coming to an end, so does my experience and time with ICS-314. And now looking back, I was able to expand what I’ve learned in previous courses and apply them to scenarios that I’ll possibly be dealing with in the new future. It was also nice to get some experience with new coding languages that have a focus on web development like HTML, CSS, and JavaScript. Then from there branching out to things like the UI Frameworks Bootstrap and React, working alongside with MongoDB database and web application frameworks like Meteor. I feel like I’ve learned  a lot, but at the same time know that I’ve only dipped my toes into software engineering with web development. It’s piqued my interest and makes me want to possibly expand my knowledge in this specific field in the future. 
@@ -22,6 +22,7 @@ Now, thinking about the fundamental software engineering concepts that we’ve l
 The first concept that I want to talk about is Agile Project Management. During this subject we learned about how this concept focuses on improving the process and efficiency of software development when working within a group. Since working within any type of group, large or small, Agile Project Management provides structures that developers can use to help collaborate with others more efficiently while improving planning for future tasks that need to be addressed. This is good to address since there are many aspects that can affect the prosses of development like the size of the group, personality of the team members, characteristics of the project, etc. So having a structure for everyone in the group to follow will allow things to be more organized while making sure everyone knows the tasks that they need to work on while knowing what everyone else is working on. 
 
 The style of Agile Project Management that we used for our group project we’ve been working on for the last couple months is Issue-Driven Project Management.  The way this style was described to us is that Issue-Driven Project Management (in simplest terms) follows these rules:
+
   -	Divides up the work into tasks.
   -	No task takes longer than 3 days.
   -	Each task is specified by an issue.
@@ -30,6 +31,7 @@ The style of Agile Project Management that we used for our group project we’ve
   -	Milestones have due dates.
   -	Milestones are represented by Project Boards.
   -	At all times, every person has at least 1 issue that they are responsible for closing.
+
 We practiced this concept using GitHub and while it took a bit to get used to how everything works, I can easily see how using this kind of approach to project can really improve the efficiency of workflow for each person in the group. Of course, I’m not a pro yet, but with software development being something that I want to pursue in the future, this is something that I really want to improve on. Gaining experience with Issue-Driven Project Management while working on our group project made me see how this is something that I can see myself using in the future when it comes to working on any type of project. This concept helps with keeping confusion within the group to a minimum and allows everyone to work as efficiently as possible with each other, keeping everything in check. 
 
 ### User Interface Frameworks
