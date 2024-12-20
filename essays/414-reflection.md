@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Goodbye, ICS 414!"
+title: "ICS 414, It's Been a Fun Ride!"
 # All dates must be YYYY-MM-DD format!
-date: 2024-12-18
+date: 2024-12-19
 published: true
 labels:
   - ICS 414
