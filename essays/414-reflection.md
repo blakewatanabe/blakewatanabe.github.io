@@ -11,7 +11,7 @@ labels:
   - Software Engineering
 ---
 
-<img style="width: 800px" class="rounded mx-auto d-block" src="../img/314-reflection.png">
+<img style="width: 400px" class="rounded mx-auto d-block" src="../img/uh.png"><img style="width: 400px" class="rounded mx-auto d-block" src="../img/spire.png">
 
 ### Introduction
 This semester (FALL 2024) for ICS-414 at UH Manoa, our class collaborated an accounting company, Spire Hawaii,  as we had to produce an application that meet the requirements that Spire were requesting for. It started with us observing their data excel worksheets to having meetings everything few weeks where we provided our progress and received feedback from the Spire staff. As we worked through each milestone, I would say that there were definitely many challenges that we had to face along the way. But, not saying that in a bad way! For me, this was a new scenario where I faced problems that I haven’t dealt with before which allowed me to learn a lot through this experience and happy with the results.
